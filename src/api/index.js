@@ -1,6 +1,7 @@
 import qs from 'qs'
 import axios from 'axios'
 
+console.log("22222222");
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded'
 if (location.hostname === 'localhost') {
   var uri = 'http://search.localhost.com'
