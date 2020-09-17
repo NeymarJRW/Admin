@@ -11,7 +11,7 @@ import {
 // import '@/api/mock'
 console.log("2222222");
 import log from './util/log'
-
+console.log("再次更改！！");
 Vue.use(iView)
 
 window.log = log
