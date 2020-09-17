@@ -9,7 +9,7 @@ import {
   checkLogin
 } from './api/index'
 // import '@/api/mock'
-
+console.log("2222222");
 import log from './util/log'
 
 Vue.use(iView)
